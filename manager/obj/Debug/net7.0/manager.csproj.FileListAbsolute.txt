@@ -1,0 +1,17 @@
+C:\Users\danie\RiderProjects\Zed\manager\bin\Debug\net7.0\manager.deps.json
+C:\Users\danie\RiderProjects\Zed\manager\bin\Debug\net7.0\manager.dll
+C:\Users\danie\RiderProjects\Zed\manager\bin\Debug\net7.0\manager.pdb
+C:\Users\danie\RiderProjects\Zed\manager\bin\Debug\net7.0\database.dll
+C:\Users\danie\RiderProjects\Zed\manager\bin\Debug\net7.0\persistence.dll
+C:\Users\danie\RiderProjects\Zed\manager\bin\Debug\net7.0\persistence.pdb
+C:\Users\danie\RiderProjects\Zed\manager\bin\Debug\net7.0\database.pdb
+C:\Users\danie\RiderProjects\Zed\manager\obj\Debug\net7.0\manager.csproj.AssemblyReference.cache
+C:\Users\danie\RiderProjects\Zed\manager\obj\Debug\net7.0\manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\RiderProjects\Zed\manager\obj\Debug\net7.0\manager.AssemblyInfoInputs.cache
+C:\Users\danie\RiderProjects\Zed\manager\obj\Debug\net7.0\manager.AssemblyInfo.cs
+C:\Users\danie\RiderProjects\Zed\manager\obj\Debug\net7.0\manager.csproj.CoreCompileInputs.cache
+C:\Users\danie\RiderProjects\Zed\manager\obj\Debug\net7.0\manager.csproj.CopyComplete
+C:\Users\danie\RiderProjects\Zed\manager\obj\Debug\net7.0\manager.dll
+C:\Users\danie\RiderProjects\Zed\manager\obj\Debug\net7.0\refint\manager.dll
+C:\Users\danie\RiderProjects\Zed\manager\obj\Debug\net7.0\manager.pdb
+C:\Users\danie\RiderProjects\Zed\manager\obj\Debug\net7.0\ref\manager.dll

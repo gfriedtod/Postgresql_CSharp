@@ -1,0 +1,5 @@
+C:\Users\danie\RiderProjects\Zed\obj\Debug\net7.0\Zed.csproj.AssemblyReference.cache
+C:\Users\danie\RiderProjects\Zed\obj\Debug\net7.0\Zed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\RiderProjects\Zed\obj\Debug\net7.0\Zed.AssemblyInfoInputs.cache
+C:\Users\danie\RiderProjects\Zed\obj\Debug\net7.0\Zed.AssemblyInfo.cs
+C:\Users\danie\RiderProjects\Zed\obj\Debug\net7.0\Zed.csproj.CoreCompileInputs.cache

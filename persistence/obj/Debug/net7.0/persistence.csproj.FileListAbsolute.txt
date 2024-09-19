@@ -1,0 +1,15 @@
+C:\Users\danie\RiderProjects\Zed\persistence\bin\Debug\net7.0\persistence.deps.json
+C:\Users\danie\RiderProjects\Zed\persistence\bin\Debug\net7.0\persistence.dll
+C:\Users\danie\RiderProjects\Zed\persistence\bin\Debug\net7.0\persistence.pdb
+C:\Users\danie\RiderProjects\Zed\persistence\bin\Debug\net7.0\database.dll
+C:\Users\danie\RiderProjects\Zed\persistence\bin\Debug\net7.0\database.pdb
+C:\Users\danie\RiderProjects\Zed\persistence\obj\Debug\net7.0\persistence.csproj.AssemblyReference.cache
+C:\Users\danie\RiderProjects\Zed\persistence\obj\Debug\net7.0\persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\RiderProjects\Zed\persistence\obj\Debug\net7.0\persistence.AssemblyInfoInputs.cache
+C:\Users\danie\RiderProjects\Zed\persistence\obj\Debug\net7.0\persistence.AssemblyInfo.cs
+C:\Users\danie\RiderProjects\Zed\persistence\obj\Debug\net7.0\persistence.csproj.CoreCompileInputs.cache
+C:\Users\danie\RiderProjects\Zed\persistence\obj\Debug\net7.0\persistence.csproj.CopyComplete
+C:\Users\danie\RiderProjects\Zed\persistence\obj\Debug\net7.0\persistence.dll
+C:\Users\danie\RiderProjects\Zed\persistence\obj\Debug\net7.0\refint\persistence.dll
+C:\Users\danie\RiderProjects\Zed\persistence\obj\Debug\net7.0\persistence.pdb
+C:\Users\danie\RiderProjects\Zed\persistence\obj\Debug\net7.0\ref\persistence.dll
