@@ -18,7 +18,7 @@ public class Manager
         Console.WriteLine("Id | Name");
         foreach (var user in _userHandler.read())
         {
-            Console.WriteLine($" ${user.Id} | ${user.Name}");
+            Console.WriteLine($" {user.Id} | {user.Name}");
         } 
     }
 

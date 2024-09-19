@@ -19,12 +19,12 @@ public class UserHandler : IUserRepository
     {
         try
         {
-            var command = new NpgsqlCommand($"INSERT INTO public.user (name) values ('${user.Name}')", _mydb.Connection);
+            var command = new NpgsqlCommand($"INSERT INTO public.user (name) values ('{user.Name}')", _mydb.Connection);
             command.ExecuteScalar();
         }
         catch (NpgsqlException e)
         {
-            Console.WriteLine($"We encounted some error : ${e.Message} ");
+            Console.WriteLine($"We encounted some error : {e.Message} ");
         }
     }
 
