@@ -62,12 +62,9 @@ public class Mydb
         _password = password;
         _user = user;
         _server = server;
-        _connection =
-            new NpgsqlConnection(
-                "Username=postgres.yrnugzcgcqtxcjvdggti;Password=PV9zI5PEdPBMsJVV;Host=aws-0-eu-central-1.pooler.supabase.com;Port=6543;Database=postgres;");
-        // _connection = new NpgsqlConnection("Port=" + _port + ";Database=" + _database +
-        //                                   ";Password=" + _password + ";User Id=" + _user + ";Server=" +
-        //                                   _server);
+        _connection = new NpgsqlConnection("Port=" + _port + ";Database=" + _database +
+                                          ";Password=" + _password + ";User Id=" + _user + ";Server=" +
+                                          _server);
         _connection.Open();
         if (_connection.State == System.Data.ConnectionState.Open)
             Console.WriteLine("Success open postgreSQL connection.");
